@@ -4,7 +4,7 @@
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
 
 ## THEORY
-We try to use the A* algorithm to navigate through a 2D Gird environment. We provide the algorithm with the inital and goal states, and then let the algorithm calculate the Heuristic function to decide the path nodes. And finally, we return the path nodes to the user. 
+We try to use the A* algorithm to navigate through a 2D Grid environment. We provide the algorithm with the inital and goal states, and then let the algorithm calculate the Heuristic function to decide the path nodes. And finally, we return the path nodes to the user. 
 
 ## DESIGN STEPS
 
