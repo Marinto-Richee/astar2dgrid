@@ -4,7 +4,7 @@
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
 
 ## THEORY
-We try to use the A* algorithm to navigate through a 2D Grid environment. We provide the algorithm with the inital and goal states, and then let the algorithm calculate the Heuristic function to decide the path nodes. And finally, we return the path nodes to the user. 
+We try to use the A* algorithm to navigate through a 2D Grid environment. We provide the algorithm with the initial and goal states, and then let the algorithm calculate the Heuristic function to decide the path nodes. And finally, we return the path nodes to the user. 
 
 ## DESIGN STEPS
 
@@ -17,7 +17,7 @@ Mention the Obstacles in the 2D grid World
 ### STEP 3:
 Define the function for the distance function for the heuristic function
 ### STEP 4:
-Pass all the values to the GirdProblem, and print the solution path.
+Pass all the values to the GridProblem, and print the solution path.
 
 ## Draw the 2D 
 ![4c760964-887f-489c-b99a-d9ccc4dc3d0d](https://user-images.githubusercontent.com/65499285/168835116-a81025e2-668a-4e09-9568-39b50a51f08b.jpg)
@@ -189,4 +189,4 @@ path_states(solution1)
 The algorithm is able to find the solution path for the given problem. But the solution path, might not be the shortest path to reach the goal state.
 
 ## RESULT:
-Hence, A* Algorithm was implemented to find the route from the source to the destination point in a 2D gird World.
+Hence, A* Algorithm was implemented to find the route from the source to the destination point in a 2D grid World.
